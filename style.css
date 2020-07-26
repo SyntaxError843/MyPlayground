@@ -26,6 +26,11 @@ body {
     margin: 5%;
 }
 
+.navbar li:hover {
+    color: gainsboro;
+    cursor: pointer;
+}
+
 .navbar ul {
     margin-left: 60%;
 }
