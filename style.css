@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top-bar {
+    width: 100%;
+    background-color: darkslateblue;
+    padding: 20px;
+}
+
+.container {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#banner {
+    font-size: 30px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.navbar li {
+    display: inline;
+    margin: 5%;
+}
+
+.navbar ul {
+    margin-left: 60%;
+}
+
+.main {
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 50px;
+    text-align: center;
+    word-spacing: 3px;
+}
