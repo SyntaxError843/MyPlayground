@@ -1,4 +1,5 @@
 # Nevermind it finally worked
 
-git push to origin master:whyisntthisworking successful
+git push origin master:whyisntthisworking
+
 * [new branch]      master -> whyisntthisworking
