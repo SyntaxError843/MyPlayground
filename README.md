@@ -10,15 +10,21 @@
     hint: not have locally.
 
     pastes origin's master over local master when 'git pull origin master' fails
-
+ 
+ * apparently --rebase makes a new branch that isnt master and cant get pushed anywhere
+ 
+ * what
+ 
  * learned to never use --allow-unrelated-histories...
  
- * apparently rebase makes a new branch that isnt master and cant get pushed anywhere
+ * note: learn what --rebase does and dont copy paste off forms
  
- * somehow merged new temp branch with local master and successfully pushed to remote gitTest branch
+ * what is even happening man
  
- command looked smth like 'git push origin master:gitTest'
+ * somehow merged new temp rebased branch with local master and successfully pushed to remote gitTest branch
  
- * note to self: go to master and then git merge with other branches maybe i dont know
+      command looked smth like 'git push origin master:gitTest'
  
- * pull request successful
+ * note to self: go to master and then git merge with other branches maybe? i dont know
+ 
+ * pull request successful...?
