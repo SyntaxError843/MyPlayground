@@ -10,3 +10,5 @@
     hint: not have locally.
 
     pastes origin's master over local master when 'git pull origin master' fails
+
+ * learned to never use --allow-unrelated-histories...
