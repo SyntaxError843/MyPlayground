@@ -1,4 +1,4 @@
-#Testing git commands
+# Testing git commands
 
  * git push to origin master:whyisntthisworking ----> branch 'whyisntthisworking' created on remote repo and master got pushed to it successfully
 
@@ -12,3 +12,5 @@
     pastes origin's master over local master when 'git pull origin master' fails
 
  * learned to never use --allow-unrelated-histories...
+
+To be continued... 
